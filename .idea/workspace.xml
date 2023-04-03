@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9a57dbe6-6b5b-49f1-9b32-d89d8a840e48" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Day 001/Challenge Variables/VariablesChallenge.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day 002/BMICalculator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day 002/DataTypes.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 001/Practice Task 01/NameLengthPractice.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 001/Practice Task 01/NameLengthPractice.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,7 +37,28 @@
       <recent name="C:\Users\chris\100 Days of Code Python\100DaysOfCodePython\Day 001\Practice Task 01" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.VariablesChallenge">
+  <component name="RunManager" selected="Python.BMICalculator">
+    <configuration name="BMICalculator" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="100DaysOfCodePython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day 002" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\chris\100 Days of Code Python\100DaysOfCodePython\Day 002\BMI Calculator\BMICalculator.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="BandNameGenerator" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="100DaysOfCodePython" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -51,6 +72,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="C:\Users\chris\100 Days of Code Python\100DaysOfCodePython\Day 001\Project\BandNameGenerator.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="DataTypes" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="100DaysOfCodePython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day 002" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\chris\100 Days of Code Python\100DaysOfCodePython\Day 002\Data Types Exercise\DataTypes.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -103,6 +145,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.BMICalculator" />
+        <item itemvalue="Python.DataTypes" />
         <item itemvalue="Python.VariablesChallenge" />
         <item itemvalue="Python.NameLengthPractice" />
         <item itemvalue="Python.BandNameGenerator" />
@@ -130,5 +174,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
