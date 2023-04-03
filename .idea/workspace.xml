@@ -5,11 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9a57dbe6-6b5b-49f1-9b32-d89d8a840e48" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Day 002/Life in Weeks  Exercise/remaininglifecalculator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 002/Tip Calculator/TipCalculator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day 003/Leap Year Challenge/leapyearcalculator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day 003/OddOrEven/OddNumberCheck.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 001/Challenge Variables/VariablesChallenge.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 001/Challenge Variables/VariablesChallenge.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day 001/Practice Task 01/NameLengthPractice.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day 001/Practice Task 01/NameLengthPractice.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,15 +39,15 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\chris\100 Days of Code Python\100DaysOfCodePython\Day 003\OddOrEven" />
       <recent name="C:\Users\chris\100 Days of Code Python\100DaysOfCodePython\Day 002\Life in Weeks  Exercise" />
       <recent name="C:\Users\chris\100 Days of Code Python\100DaysOfCodePython\Day 002\Data Types Exercise" />
       <recent name="C:\Users\chris\100 Days of Code Python\100DaysOfCodePython\Day 002\BMI Calculator" />
       <recent name="C:\Users\chris\100 Days of Code Python\100DaysOfCodePython\Day 001\Project" />
-      <recent name="C:\Users\chris\100 Days of Code Python\100DaysOfCodePython\Day 001\Practice Task 01" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.TipCalculator">
-    <configuration name="BMICalculator" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.leapyearcalculator">
+    <configuration name="BMI Calculator" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="100DaysOfCodePython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -57,11 +55,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day 002" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day 003/BMI 2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\chris\100 Days of Code Python\100DaysOfCodePython\Day 002\BMI Calculator\BMICalculator.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day 003/BMI 2/BMI Calculator.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -70,7 +68,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="DataTypes" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="OddNumberCheck" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="100DaysOfCodePython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -78,11 +76,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day 002" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day 003" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\chris\100 Days of Code Python\100DaysOfCodePython\Day 002\Data Types Exercise\DataTypes.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\chris\100 Days of Code Python\100DaysOfCodePython\Day 003\OddOrEven\OddNumberCheck.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -112,7 +110,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="VariablesChallenge" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="leapyearcalculator" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="100DaysOfCodePython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -120,11 +118,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day 001/Challenge Variables" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day 003/Leap Year Challenge" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day 001/Challenge Variables/VariablesChallenge.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day 003/Leap Year Challenge/leapyearcalculator.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -156,11 +154,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.leapyearcalculator" />
+        <item itemvalue="Python.BMI Calculator" />
+        <item itemvalue="Python.OddNumberCheck" />
         <item itemvalue="Python.TipCalculator" />
         <item itemvalue="Python.remaininglifecalculator" />
-        <item itemvalue="Python.BMICalculator" />
-        <item itemvalue="Python.DataTypes" />
-        <item itemvalue="Python.VariablesChallenge" />
       </list>
     </recent_temporary>
   </component>
